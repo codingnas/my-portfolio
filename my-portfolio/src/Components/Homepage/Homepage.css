@@ -1,0 +1,22 @@
+.title-name {
+    font-size: 80px;
+    margin-left: -45%;
+    margin-top: 15%;
+}
+
+.subheading-under-title {
+    font-size: 25px;
+    margin-left: -54%;
+    margin-top: -4.5%;
+}
+
+.homepage-description {
+    text-align: left;
+    margin-left: 3.8%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-gap: 5px;
+}
