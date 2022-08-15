@@ -1,22 +1,67 @@
-.title-name {
-    font-size: 80px;
-    margin-left: -45%;
-    margin-top: 15%;
+.body-homepage {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
 }
 
+.title-name {
+    font-size: 55px;
+    margin-left: -47.2%;
+    font-family: 'Silkscreen', sans-serif;
+}
+
+.title-name-lower{
+    margin-top: 15%;
+}
 .subheading-under-title {
     font-size: 25px;
-    margin-left: -54%;
-    margin-top: -4.5%;
+    margin-left: -54.5%;
+    margin-top: 0.2%;
+    font-family: 'Noto Sans Display', sans-serif;
 }
 
 .homepage-description {
     text-align: left;
-    margin-left: 3.8%;
+    margin-left: 5.7%;
+    font-family: 'Noto Sans Display', sans-serif;
 }
 
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr ;
     grid-gap: 5px;
+}
+
+.homepage-subheading-two {
+    text-align: left;
+    margin-left: 5.7%;
+    font-family: 'Noto Sans Display', sans-serif;
+    
+}
+
+.homepage-smallest-subheading {
+    text-align: left;
+    margin-left: 5.7%;
+    font-size: 18px;
+    font-family: 'Noto Sans Display', sans-serif;
+}
+
+.icons-position {
+    text-align: left;
+    margin-left: 6%;
+    margin-top: -1%;
+}
+
+.smallest-subheading-icons {
+    margin-top: 1%;
+}
+
+.img-position {
+    margin-left: 60%;
+    margin-top: -35%;
+}
+
+.profile-img {
+    clip-path: circle();
 }

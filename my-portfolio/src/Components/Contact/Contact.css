@@ -1,0 +1,7 @@
+.form-position-grid {
+    display: grid;
+    gap: 10%;
+    grid-template-columns: 240px;
+    margin-left: 43%;
+
+}
