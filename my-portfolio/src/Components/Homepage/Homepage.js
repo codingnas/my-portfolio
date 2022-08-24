@@ -32,7 +32,7 @@ function Homepage() {
     <div className='smallest-subheading-icons'>
     <h5 className='homepage-smallest-subheading'> Get in touch. </h5>
     <div className='icons-position'>
-    <a href="https://github.com/itsnasras" target="_blank"> 
+    <a href="https://github.com/codingnas" target="_blank"> 
     <AiOutlineGithub title='github' /> 
     </a>
     <a href="https://mobile.twitter.com/codingnas"  target="_blank">
